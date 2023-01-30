@@ -4575,6 +4575,10 @@ blockquote {
   font-weight: 500;
 }
 
+.sysf-button-text:hover {
+  color: #597ef7;
+}
+
 .nav-link-2 {
   padding-right: 10px;
   padding-left: 10px;
